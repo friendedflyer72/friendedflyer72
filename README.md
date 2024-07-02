@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/friendedflyer72/friendedflyer72/blob/main/icons/Hi.gif">, I'm Samiran Das</h2>
+<h1 align="center"><img src="https://github.com/friendedflyer72/friendedflyer72/blob/main/icons/Hi.gif" width="28px"> Hi, I'm Samiran Das</h2>
 <h2 align="center">
 Fullstack Developer
 <a href="">
@@ -17,6 +17,9 @@ Fullstack Developer
  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZmdDBpdGM0Z2FsbTEwb3E0djY5ZXpyaXRmbHUxbGhwa3J1MXo5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 </div>
 
+## Languages and Tools:
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,py,cpp,java,php,tailwind,bootstrap,mysql,sqlite,git,docker,aws,azure,linux,debian)]()<br/>
 <!--
 **friendedflyer72/friendedflyer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
