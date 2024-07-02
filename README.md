@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/friendedflyer72/friendedflyer72/blob/readME/icons/Hi.gif" width="28px"/>, I'm Samiran Das</h2>
+<h1 align="center">Hi <img src="https://github.com/friendedflyer72/friendedflyer72/blob/main/icons/Hi.gif">, I'm Samiran Das</h2>
 <h2 align="center">
 Fullstack Developer
 <a href="">
